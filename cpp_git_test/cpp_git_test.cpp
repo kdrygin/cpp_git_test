@@ -7,7 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
     // master test
-    // test 2
+    // test master
     // master comment added
 }
 
